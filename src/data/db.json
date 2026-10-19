@@ -1,0 +1,24 @@
+{
+    "trips" : [
+        {
+            "id": 1,
+            "name": "Paris",
+            "price": 12000
+        },
+        {
+            "id": 2,
+            "name": "New York",
+            "price": 15000
+        },
+        {
+            "id": 3,
+            "name": "Tokyo",
+            "price": 20000
+        },
+        {
+            "id": 4,
+            "name": "Yangon",
+            "price": 40000
+        }
+    ]
+}
